@@ -28,7 +28,7 @@ Five switches (A,B,C,D,E) are connected to ATmega328p. The microcontroller needs
 
 <details>
 <summary>CIRCUIT ASSEMBLY</summary>
-<img src="https://github.com/msyahmizulkepli/MCTE-4342/Week4/Exercise8/Ex8.jpeg">
+<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%204/Exercise8/Ex8.jpeg">
 </details>
 
 ## Example 9
