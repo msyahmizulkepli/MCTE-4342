@@ -7,7 +7,7 @@ There are two LEDs whose anodes are connected to PB0 and PB1 respectively. The L
 
 <details>
 <summary>CIRCUIT DIAGRAM</summary>
-<img src="https://github.com/msyahmizulkepli/MCTE-4342/Week4/Exercise7/Circuit%20diagram%20Ex7.JPG">
+<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%204/Exercise7/Circuit%20diagram%20Ex7.JPG">
 </details>
 
 <details>
@@ -23,7 +23,7 @@ Five switches (A,B,C,D,E) are connected to ATmega328p. The microcontroller needs
 
 <details>
 <summary>CIRCUIT DIAGRAM</summary>
-<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%204/Exercise7/Circuit%20diagram%20Ex7.JPG">
+<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%204/Exercise8/Circuit%20diagram%20Ex8.JPG">
 </details>
 
 <details>
@@ -50,7 +50,7 @@ Write a program for ATmega328p that blinks 8 LEDs (on PD0 to PD7) with the follo
 
 <details>
 <summary>CIRCUIT DIAGRAM</summary>
-<img src="https://github.com/msyahmizulkepli/MCTE-4342/Week4/Exercise9/Circuit%20diagram%20Ex9.JPG">
+<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%204/Exercise9/Circuit%20diagram%20Ex9.JPG">
 </details>
 
 <details>
