@@ -3,7 +3,7 @@
 
 There are two LEDs whose anodes are connected to PB0 and PB1 respectively. The LED 1 needs to be flashing with ON time 750 ms and OFF time 350 ms. The LED 2 needs to be flashing with ON time 400 and OFF time 600 ms.
 
-### Video: https://youtu.be/
+### Video: https://youtu.be/Xyw1UJhVrmk
 
 <details>
 <summary>CIRCUIT DIAGRAM</summary>
