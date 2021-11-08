@@ -3,7 +3,7 @@
 
 There are two LEDs whose anodes are connected to PB0 and PB1 respectively. The LED 1 needs to be flashing with ON time 750 ms and OFF time 350 ms. The LED 2 needs to be flashing with ON time 400 and OFF time 600 ms.
 
-### Video: https://youtu.be/XOgXczWW7fc
+### Video: https://youtu.be/
 
 <details>
 <summary>CIRCUIT DIAGRAM</summary>
@@ -11,7 +11,7 @@ There are two LEDs whose anodes are connected to PB0 and PB1 respectively. The L
 </details>
 
 <details>
-<summary>PROTOTYPE</summary>
+<summary>CIRCUIT ASSEMBLY</summary>
 <img src="https://github.com/msyahmizulkepli/MCTE-4342/Week4/Exercise7/blob/main/Ex7.JPG">
 </details>
 
@@ -19,7 +19,7 @@ There are two LEDs whose anodes are connected to PB0 and PB1 respectively. The L
 
 Five switches (A,B,C,D,E) are connected to ATmega328p. The microcontroller needs to keep track of how many times each button has been pressed. Whenever any button has been pressed, the microcontroller needs to send out the information (of how many times each button has been pressed) through the serial port.
 
-### Video: https://youtu.be/DDvdOJFxsr0
+### Video: https://youtu.be/
 
 <details>
 <summary>CIRCUIT DIAGRAM</summary>
@@ -27,7 +27,7 @@ Five switches (A,B,C,D,E) are connected to ATmega328p. The microcontroller needs
 </details>
 
 <details>
-<summary>PROTOTYPE</summary>
+<summary>CIRCUIT ASSEMBLY</summary>
 <img src="https://github.com/msyahmizulkepli/MCTE-4342/Week4/Exercise8/Ex8.jpg">
 </details>
 
@@ -46,7 +46,7 @@ Write a program for ATmega328p that blinks 8 LEDs (on PD0 to PD7) with the follo
     PD6             1859                351
     PD7             777                 888                 
 
-### Video: https://youtu.be/E67LZ446EoY
+### Video: https://youtu.be/
 
 <details>
 <summary>CIRCUIT DIAGRAM</summary>
@@ -54,6 +54,6 @@ Write a program for ATmega328p that blinks 8 LEDs (on PD0 to PD7) with the follo
 </details>
 
 <details>
-<summary>PROTOTYPE</summary>
+<summary>CIRCUIT ASSEMBLY</summary>
 <img src="https://github.com/msyahmizulkepli/MCTE-4342/Week4/Exercise9/Ex9.jpg">
 </details>

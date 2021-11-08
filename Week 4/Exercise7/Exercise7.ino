@@ -7,7 +7,6 @@ bool flag2 = 0;
 
 void setup() {
   // put your setup code here, to run once:
-  Serial.begin(9600);
   pinMode(2, OUTPUT);
   pinMode(3, OUTPUT);
 }
@@ -30,7 +29,7 @@ void loop() {
       prevmillis1 = currentmillis1;
     }
   }
-  
+   
   if (flag2 == 0) {
     digitalWrite(3, HIGH);
     if ((currentmillis2 - prevmillis2) > 400) {

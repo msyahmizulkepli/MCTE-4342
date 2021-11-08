@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "/dev/cu.usbmodem1431401",
-    "sketch": "Week 4/Exercise7/Ex7.ino"
+    "sketch": "Week 4/Exercise7/Exercise7.ino"
 }
