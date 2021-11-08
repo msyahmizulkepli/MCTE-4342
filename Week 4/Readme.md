@@ -55,5 +55,5 @@ Write a program for ATmega328p that blinks 8 LEDs (on PD0 to PD7) with the follo
 
 <details>
 <summary>CIRCUIT ASSEMBLY</summary>
-<img src="https://github.com/msyahmizulkepli/MCTE-4342/Week4/Exercise9/Ex9.jpg">
+<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%204/Exercise9/Ex9.jpeg">
 </details>
