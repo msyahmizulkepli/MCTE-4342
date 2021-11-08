@@ -12,7 +12,7 @@ There are two LEDs whose anodes are connected to PB0 and PB1 respectively. The L
 
 <details>
 <summary>CIRCUIT ASSEMBLY</summary>
-<img src="https://github.com/msyahmizulkepli/MCTE-4342/Week4/Exercise7/blob/main/Ex7.jpeg">
+<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%204/Exercise7/Ex7.jpeg">
 </details>
 
 ## Example 8 
