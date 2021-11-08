@@ -19,7 +19,7 @@ There are two LEDs whose anodes are connected to PB0 and PB1 respectively. The L
 
 Five switches (A,B,C,D,E) are connected to ATmega328p. The microcontroller needs to keep track of how many times each button has been pressed. Whenever any button has been pressed, the microcontroller needs to send out the information (of how many times each button has been pressed) through the serial port.
 
-### Video: https://youtu.be/
+### Video: https://youtu.be/OrBeRNBln3o
 
 <details>
 <summary>CIRCUIT DIAGRAM</summary>
@@ -28,7 +28,7 @@ Five switches (A,B,C,D,E) are connected to ATmega328p. The microcontroller needs
 
 <details>
 <summary>CIRCUIT ASSEMBLY</summary>
-<img src="https://github.com/msyahmizulkepli/MCTE-4342/Week4/Exercise8/Ex8.jpg">
+<img src="https://github.com/msyahmizulkepli/MCTE-4342/Week4/Exercise8/Ex8.jpeg">
 </details>
 
 ## Example 9
