@@ -23,7 +23,7 @@ Five switches (A,B,C,D,E) are connected to ATmega328p. The microcontroller needs
 
 <details>
 <summary>CIRCUIT DIAGRAM</summary>
-<img src="https://github.com/msyahmizulkepli/MCTE-4342/Week4/Exercise8/Circuit%20diagram%20Ex8.JPG">
+<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%204/Exercise7/Circuit%20diagram%20Ex7.JPG">
 </details>
 
 <details>
