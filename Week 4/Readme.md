@@ -35,16 +35,16 @@ Five switches (A,B,C,D,E) are connected to ATmega328p. The microcontroller needs
 
 Write a program for ATmega328p that blinks 8 LEDs (on PD0 to PD7) with the following on and off times.
 
-Pin         On time (ms)        Off time (ms)
-----------------------------------------------
-PD0             781                 515
-PD1             2014                1348
-PD2             343                 573
-PD3             678                 1839
-PD4             342                 534
-PD5             1478                326
-PD6             1859                351
-PD7             777                 888                 
+    Pin         On time (ms)        Off time (ms)
+    ---         ------------        --------------
+    PD0             781                 515
+    PD1             2014                1348
+    PD2             343                 573
+    PD3             678                 1839
+    PD4             342                 534
+    PD5             1478                326
+    PD6             1859                351
+    PD7             777                 888                 
 
 ### Video: https://youtu.be/E67LZ446EoY
 
