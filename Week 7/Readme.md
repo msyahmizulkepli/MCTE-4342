@@ -2,7 +2,7 @@
 
 <details>
 <summary>CIRCUIT DIAGRAM</summary>
-<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%207/Circuit%20Diagram.jpg">
+<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%207/Cicuit%20Diagram.jpg">
 </details>
 
 ## Example 1
@@ -13,7 +13,7 @@ External Interrupt (INT0)
 
 <details>
 <summary>PROTOTYPE</summary>
-<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%207/Week7/Exercise1/Exercise1.jpg">
+<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%207/Exercise1/Exercise1.jpg">
 </details>
 
 ## Example 2 
@@ -24,7 +24,7 @@ Pin Change Interrupt (PCINT0)
 
 <details>
 <summary>PROTOTYPE</summary>
-<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%207/Week7/Exercise2/Exercise2.jpg">
+<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%207/Exercise2/Exercise2.jpg">
 </details>
 
 ## Example 3
@@ -35,5 +35,5 @@ Timer Interrupt (Timer2)
 
 <details>
 <summary>PROTOTYPE</summary>
-<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%207/Week7/Exercise3/Exercise3.jpg">
+<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%207/Exercise3/Exercise3.jpg">
 </details>
