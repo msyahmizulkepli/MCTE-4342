@@ -5,7 +5,7 @@ An LED is attached to PB5 of ATmega328p. Use the Blinky class to flash the LED (
 
 <details>
 <summary>CIRCUIT DIAGRAM</summary>
-<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week%2010/Example1/Example%201.jpg">
+<img src="https://github.com/msyahmizulkepli/MCTE-4342/blob/main/Week10/Example1/Example%201.jpg">
 </details>
 
 
