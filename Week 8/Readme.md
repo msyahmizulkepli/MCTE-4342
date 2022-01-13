@@ -2,6 +2,11 @@
 
 ## EEPROM (electrically erasable programmable read-only memory) in Arduino
 
+- ATmega328p has an on-chip 1kB EEPROM.
+- The memory is byte-addressable (from 0 to 1023).
+- There are hardware peripherals for reading and writing EEPROM.
+- There are 4 registers to perform read and write operations.
+
 ### EEPROM.write
 
 Write a byte to the EEPROM. 
